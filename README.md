@@ -9,6 +9,6 @@
 
 ## Screenshots
 
-<img src="g1.gif"/>
+<img src="gif1.gif"/>
 
-<img src="g2.gif"/>
+<img src="gif2.gif"/>
